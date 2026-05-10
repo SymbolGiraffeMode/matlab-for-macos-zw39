@@ -1,4 +1,4 @@
-
+Enhance MATLAB for macOS with premium MATLAB for macOS Automation | code-autocompletion + data-visualization, the #1 automation. Includes code-autocompletion and
 
 
 
